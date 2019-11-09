@@ -1,0 +1,79 @@
+body {
+    margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  background-color: #719192;
+  color:#3c4245;
+  font-size: 100px;
+  margin-bottom: 0;
+}
+
+h3 {
+  color: #5f6769;
+  font-size: 28px;
+  background-color: #dfcdc3;
+  display: inline-block;
+}
+
+h4 {
+  text-align: center;
+  color:#5f6769;
+  font-size: 24px;
+  background-color: #dfcdc3;
+  margin-top: 0;
+}
+h5 {
+  font-size: 22px;
+}
+p {
+  font-size: 20px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+  background-color: #719192;
+
+}
+
+.Katherine-Johnson {
+padding-top: 10px;
+ position: relative;
+ padding-bottom: 5px;
+ margin: 175px;
+ margin-top: 70px;
+ margin-bottom: -55px;
+
+}
+.Dorothy-Vaughan {
+padding-top: 10px;
+ position: relative;
+ padding-bottom: 5px;
+ margin: 175px;
+ margin-bottom: -55px;
+}
+.Mary-Jackson {
+padding-top: 10px;
+ position: relative;
+ padding-bottom:5px;
+ margin: 175px;
+ margin-bottom: 120px;
+}
+.Johnson {
+  float: left;
+  padding-right: 30px;
+  border-radius: 70%
+
+}
+.Vaughan {
+  float: right;
+  padding-left: 30px;
+  border-radius: 100%
+}
+.Jackson {
+  float: left;
+  padding-right: 30px;
+  border-radius: 100%
+}
